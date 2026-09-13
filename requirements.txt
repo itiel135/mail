@@ -1,6 +1,5 @@
-fastapi==0.110.0
-uvicorn==0.fastapi
+fastapi
 uvicorn[standard]
 dnspython
 email-validator
-pydantic28.0
+pydantic
